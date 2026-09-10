@@ -1,16 +1,47 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Érick Santos
 
-<!--
-**ErickSantos7/ErickSantos7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+📊 Foco em **Dados e Programação**
+💻 Em transição de carreira para Tecnologia
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou desenvolvendo meus conhecimentos em **Python, SQL, Power BI e Excel**, além de estudar programação, bancos de dados e boas práticas com Git e GitHub.
+
+Tenho mais de 8 anos de experiência profissional na área comercial, com atuação em vendas, atendimento, sistemas ERP/PDV, acompanhamento de metas, organização de informações e resolução de problemas.
+
+Essa experiência despertou meu interesse em utilizar **tecnologia e dados para transformar informações em soluções e apoiar a tomada de decisões**.
+
+## 🛠️ Tecnologias e ferramentas
+
+* 🐍 Python
+* 🗃️ SQL
+* 📊 Power BI
+* 📈 Microsoft Excel
+* 🔧 Git
+* 🐙 GitHub
+* 🌐 HTML
+* 🎨 CSS
+
+## 📂 Projetos
+
+### 🎮 Jogo em Python
+
+Projeto desenvolvido para praticar lógica de programação e desenvolvimento utilizando Python.
+
+### 🏪 Sistema de Loja
+
+Projeto desenvolvido para praticar programação e criação de soluções voltadas para um cenário comercial.
+
+### 📊 Em desenvolvimento
+
+Projetos de análise de dados utilizando **Python, Pandas, SQL e Power BI**.
+
+## 🎯 Atualmente
+
+📚 Cursando Análise e Desenvolvimento de Sistemas
+📊 Estudando Análise de Dados e SQL
+🐍 Desenvolvendo projetos com Python
+📈 Aprendendo Power BI
+💻 Praticando Git e GitHub
+🚀 Buscando minha primeira oportunidade profissional em Tecnologia
